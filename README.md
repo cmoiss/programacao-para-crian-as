@@ -38,16 +38,16 @@ Aprendizagem por descoberta: Incentivo à experimentação e à investigação p
 O projeto será desenvolvido de acordo com o seguinte cronograma:
 
 ### Mês 1:
-Aula 1: Introdução à programação
-Aula 2: Variáveis e tipos de dados
-Aula 3: Operadores
-Aula 4: Estruturas de controle
-Aula 5: Funções
+- Aula 1: Introdução à programação
+- Aula 2: Variáveis e tipos de dados
+- Aula 3: Operadores
+- Aula 4: Estruturas de controle
+- Aula 5: Funções
 
 ### Mês 2:
-Aula 6: Criando um jogo simples
-Aula 7: Aprimorando o jogo
-Aula 8: Compartilhando o jogo com a comunidade
+- Aula 6: Criando um jogo simples
+- Aula 7: Aprimorando o jogo
+- Aula 8: Compartilhando o jogo com a comunidade
 
 ## Recursos Didáticos
 Computadores com acesso à internet
